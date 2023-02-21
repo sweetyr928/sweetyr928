@@ -2,8 +2,8 @@
 
 🌱 I’m currently studying Front-end.
 
-<a href="https://bbeeyaks-moment.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
-<a href="https://github.com/sweetyr928" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+<a href="https://bbeeyaks-moment.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white" height="25"/></a>
+<a href="https://github.com/sweetyr928" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white" height="25"/></a>
 
 ✏ Stack   
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" height="25"> 
