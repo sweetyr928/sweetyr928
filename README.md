@@ -1,6 +1,6 @@
 ### Hi, my name is Yerin.
 
-🌱 I’m majored in computer science.
+🌱 I’m majored in computer science.<br/>
 🌱 I’m currently studying Web Front-end engineering.
 
 <a href="https://bbeeyaks-moment.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white" height="25"/></a>
