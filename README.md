@@ -17,7 +17,6 @@
 ✏ Stack that I'm currently learning
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typeScript&amp;logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=Next.js&amp;logoColor=white" height="25">
 
 
