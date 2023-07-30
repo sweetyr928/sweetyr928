@@ -5,7 +5,7 @@
 
 <a href="https://bbeeyaks-moment.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white" height="25"/></a>
 
-✏ Stack  
+✏ Stack
 <br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" height="25"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=JavaScript&amp;logoColor=white" height="25"> 
@@ -18,6 +18,7 @@
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typeScript&amp;logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=Next.js&amp;logoColor=white" height="25">
+<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&amp;logo=react query&amp;logoColor=black" height="25">
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetyr928&show_icons=true)  
