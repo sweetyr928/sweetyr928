@@ -19,5 +19,3 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=Next.js&amp;logoColor=white" height="25">
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&amp;logo=react query&amp;logoColor=black" height="25">
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetyr928&show_icons=true)  
